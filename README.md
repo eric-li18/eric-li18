@@ -1,7 +1,7 @@
 ## Hiya, I'm Eric! 👋
 🖥️ I'm currently at [IBM](https://www.ibm.com/ca-en) as a Backend Developer Intern where I'm working on the [Db2 pureScale](https://www.ibm.com/docs/en/db2/11.5?topic=editions-introduction-db2-purescale-environment) product.  
 🏫 I'm a 4th year student studying Computer Science at University of Toronto.  
-<img src="https://www.vim.org/images/vim_on_fire.gif" width="20"/> Fun fact about me is that I'm a big [Vim](https://www.vim.org/) user!  My dotfiles can be found [here](https://github.com/eric-li18/vimrc).  
+<img src="https://www.vim.org/images/vim_on_fire.gif" width="20"/> Fun fact about me is that I'm a big [Vim](https://www.vim.org/) user!  Check out my dotfiles [here](https://github.com/eric-li18/vimrc).  
 🧗‍♂️ When I'm not coding you can find me rock climbing, cycling or camping!  
 
 ⬇️ Follow my climbing adventures with friends here!  
