@@ -4,7 +4,7 @@
 <img src="https://www.vim.org/images/vim_on_fire.gif" width="20"/> Fun fact about me is that I'm a big [Vim](https://www.vim.org/) user!  My dotfiles can be found [here](https://github.com/eric-li18/vimrc).  
 🧗‍♂️ When I'm not coding you can find me rock climbing, cycling or camping!  
 
-⬇️ Follow my adventures with friends here!  
+⬇️ Follow my climbing adventures with friends here!  
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@crimpcrew)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crimp.crew/)
 
 📫 You can reach me at:  
