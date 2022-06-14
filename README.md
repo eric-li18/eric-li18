@@ -1,5 +1,5 @@
 ## Hiya, I'm Eric! 👋
-🖥️ I'm currently at [IBM](https://www.ibm.com/ca-en) as a Backend Developer Intern where I'm working on the [Db2 pureScale](https://www.ibm.com/docs/en/db2/11.5?topic=editions-introduction-db2-purescale-environment) product.  
+🖥️ I'm currently at Amazon as a Software Development Engineer Intern where I'm working on the Payment Experiences team.  
 🏫 I'm a 4th year student studying Computer Science at University of Toronto.  
 <img src="https://www.vim.org/images/vim_on_fire.gif" width="20"/> Fun fact about me is that I'm a big [Vim](https://www.vim.org/) user!  Check out my dotfiles [here](https://github.com/eric-li18/vimrc).  
 🧗‍♂️ When I'm not coding you can find me rock climbing, cycling or camping!  
@@ -12,7 +12,9 @@
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:erickh.li@mail.utoronto.ca)
 
 
-
+<!--
+at [IBM](https://www.ibm.com/ca-en) as a Backend Developer Intern where I'm working on the [Db2 pureScale](https://www.ibm.com/docs/en/db2/11.5?topic=editions-introduction-db2-purescale-environment) product.  
+-->
 <!--
 **eric-li18/eric-li18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
