@@ -1,5 +1,5 @@
 ## Hiya, I'm Eric! 👋
-🛠️ I'm an incoming SDE at Amazon.  
+🛠️ I'm an SDE1 at Amazon.  
 🏫 I graduated from University of Toronto with a specialist in Computer Science.  
 🖥️ I previously interned at Amazon and IBM.    
 <img src="https://www.vim.org/images/vim_on_fire.gif" width="20"/> Fun fact about me is that I'm a big [Vim](https://www.vim.org/) user!  Check out my dotfiles [here](https://github.com/eric-li18/vimrc).  
