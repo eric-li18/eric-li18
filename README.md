@@ -1,5 +1,5 @@
 ## Hiya, I'm Eric! 👋
-🛠️ I'm an SDE1 at Amazon on the [Oracle Databases@AWS](https://docs.aws.amazon.com/odb/latest/UserGuide/what-is-odb.html) team.  
+🛠️ I'm an SDE1 at Amazon on the [Oracle Database@AWS](https://docs.aws.amazon.com/odb/latest/UserGuide/what-is-odb.html) team.  
 🏫 I graduated from University of Toronto with a specialist in Computer Science.  
 🔭 I'm looking to reignite my joy of coding!  
 
